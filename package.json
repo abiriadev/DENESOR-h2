@@ -14,7 +14,12 @@
     "author": "Abiria",
     "license": "ISC",
     "dependencies": {
+        "@nastyox/rando.js": "^2.0.5",
+        "chalk": "^4.1.1",
         "discord.js": "^12.5.3",
         "dotenv": "^8.2.0"
+    },
+    "devDependencies": {
+        "prettier": "^2.2.1"
     }
 }
